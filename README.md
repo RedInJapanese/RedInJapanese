@@ -1,2 +1,1 @@
-# RedInJapanese
- README repository
+Hullo! 👋
