@@ -1,0 +1,2 @@
+# RedInJapanese
+ README repository
