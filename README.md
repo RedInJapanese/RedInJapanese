@@ -1,4 +1,4 @@
-# Hullo! 👋
+# Hullo! [![Wingull](https://img.pokemondb.net/sprites/black-white/anim/normal/wingull.gif)](https://pokemondb.net/pokedex/wingull)
 
 <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=RedInJapanese&show_icons=true&theme=tokyonight&layout=compact" />
 
