@@ -16,7 +16,7 @@ My name is Akash, and I'm a computer science:game design major and computer scie
 - TensorFlow
 - Django
 
-## ![mail](https://github.com/msikma/pokesprite/blob/master/items/mail/reply-mail.png) How to contact me
+### ![mail](https://github.com/msikma/pokesprite/blob/master/items/mail/reply-mail.png) How to contact me
 - ![case](https://github.com/msikma/pokesprite/blob/master/items/key-item/travel-trunk--silver.png)LinkedIn: 
 <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=RedInJapanese&show_icons=true&theme=react&layout=compact" />
 
