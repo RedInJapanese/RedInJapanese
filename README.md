@@ -1,4 +1,4 @@
-# Hullo! [![Wingull](https://img.pokemondb.net/sprites/black-white/anim/normal/wingull.gif)]
+# Hullo! [!(https://img.pokemondb.net/sprites/black-white/anim/normal/wingull.gif)]
 
 My name is Akash, and I'm a computer science:game design major and computer science minor at UCSC.
 
