@@ -9,10 +9,12 @@ My name is Akash, and I'm a computer science:game design major and computer scie
 - Neural Networks
 - Web Crawlers
 ### Languages
-- Rust [![Corphish](https://img.pokemondb.net/sprites/black-white/anim/normal/corphish.gif)](https://pokemondb.net/pokedex/corphish)
-- Golang [![Bidoof](https://img.pokemondb.net/sprites/black-white/anim/normal/bidoof-f.gif)](https://pokemondb.net/pokedex/bidoof) 
+- Rust 
+- Golang 
 ### Engines/Frameworks
 - Unity
+- TensorFlow
+- Django
 
 ## ![mail](https://github.com/msikma/pokesprite/blob/master/items/mail/reply-mail.png) How to contact me
 - ![case](https://github.com/msikma/pokesprite/blob/master/items/key-item/travel-trunk--silver.png)LinkedIn: 
