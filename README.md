@@ -3,15 +3,15 @@
 My name is Akash, and I'm a computer science:game design major and computer science minor at UCSC.
 
 ## ![book](https://github.com/msikma/pokesprite/blob/master/items/key-item/sonias-book.png) Current interestes
-### Concepts
+**Concepts**
 - Encryption
 - Compression
 - Neural Networks
 - Web Crawlers
-### Languages
+**Languages**
 - Rust 
 - Golang 
-### Engines/Frameworks
+**Engines/Frameworks**
 - Unity
 - TensorFlow
 - Django
