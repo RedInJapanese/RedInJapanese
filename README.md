@@ -7,8 +7,8 @@ My name is Akash, and I'm a computer science:game design major and computer scie
 - Compression
 - Neural Networks
 - Web Crawlers
-- Rust
-- [![Corphish](https://img.pokemondb.net/sprites/black-white/anim/normal/corphish.gif)](https://pokemondb.net/pokedex/corphish) Golang
+-[![Corphish](https://img.pokemondb.net/sprites/black-white/anim/normal/corphish.gif)](https://pokemondb.net/pokedex/corphish) Rust
+-  Golang
 - Unity
 
 ## ![mail](https://github.com/msikma/pokesprite/blob/master/items/mail/reply-mail.png) How to contact me
