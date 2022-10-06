@@ -8,9 +8,11 @@ My name is Akash, and I'm a computer science:game design major and computer scie
 - Compression
 - Neural Networks
 - Web Crawlers
+
 **Languages**
 - Rust 
 - Golang 
+
 **Engines/Frameworks**
 - Unity
 - TensorFlow
