@@ -3,15 +3,17 @@
 My name is Akash, and I'm a computer science:game design major and computer science minor at UCSC.
 
 ### [![Budew](https://img.pokemondb.net/sprites/black-white/anim/normal/budew.gif)](https://pokemondb.net/pokedex/budew) Current interestes
-**Concepts**           **Languages**           **Engines/Frameworks**
+**Concepts**                      
 - Encryption
 - Compression
 - Neural Networks
 - Web Crawlers
 
+**Languages**
 - Rust 
 - Golang 
 
+**Engines/Frameworks**
 - Unity
 - TensorFlow
 - Django
