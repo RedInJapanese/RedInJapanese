@@ -5,6 +5,7 @@ My name is Akash, and I'm a computer science:game design major and computer scie
 - Compression
 - Neural Networks
 - Web Crawlers
+- Blockchain
 
 ## ![gmail](https://github.com/msikma/pokesprite/blob/master/icons/key-item/oaks-letter.png) How to contact me
 - LinkedIn: https://www.linkedin.com/in/akash-basu-a2949a165/
