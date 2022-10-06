@@ -9,7 +9,7 @@ My name is Akash, and I'm a computer science:game design major and computer scie
 - Rust
 - Golang
 - Unity
-![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+## ![Book]([https://octodex.github.com/images/bannekat.png](https://raw.githubusercontent.com/msikma/pokesprite/master/items/key-item/sonias-book.png))
    <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=RedInJapanese&show_icons=true&theme=react&layout=compact" />
 
 <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RedInJapanese&exclude_repo=ASDF&hide=javascript,ruby,html,css,makefile&layout=compact&theme=react"/>
