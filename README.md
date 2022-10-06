@@ -2,7 +2,7 @@
 
 My name is Akash, and I'm a computer science:game design major and computer science minor at UCSC.
 
-## ![book](https://github.com/msikma/pokesprite/blob/master/items/key-item/sonias-book.png) Current interestes
+### [![Budew](https://img.pokemondb.net/sprites/black-white/anim/normal/budew.gif)](https://pokemondb.net/pokedex/budew) Current interestes
 **Concepts**
 - Encryption
 - Compression
