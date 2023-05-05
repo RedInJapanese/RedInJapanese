@@ -1,4 +1,4 @@
-# ```fmt.Println("Hello, World!")``` [![Pikachu](https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif)](https://pokemondb.net/pokedex/pikachu)
+# ```fmt.Println("Hello, World!")``` 
 My name is Akash, and I'm a Computer Science:Game Design major and Computer Science minor at UCSC.
 ## About Me            
 
