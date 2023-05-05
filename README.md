@@ -7,4 +7,4 @@ My name is Akash, and I'm a Computer Science:Game Design major and Computer Scie
 
 🌱 Currently learning go 
 
-[!gopher](https://raw.githubusercontent.com/egonelbre/gophers/master/animation/2bit-sprite/run.gif)
+[![gopher](https://raw.githubusercontent.com/egonelbre/gophers/master/animation/2bit-sprite/run.gif)
