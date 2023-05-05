@@ -8,4 +8,4 @@ My name is Akash, and I'm a Computer Science:Game Design major and Computer Scie
 
 🌱 Currently interested in 3D code
 
-📬 Email me [here](abasu924@gmail.com)
+📬 Available via [Linkedin](https://www.linkedin.com/in/abasu924/) or [email](mailto:abasu924@gmail.com) 
