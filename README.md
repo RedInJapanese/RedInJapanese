@@ -4,7 +4,7 @@ My name is Akash, and I'm a Computer Science:Game Design major and Computer Scie
 
 🏫 Currently a junior
 
-🔭 Learning three.js and go ![gopher](https://raw.githubusercontent.com/egonelbre/gophers/master/animation/2bit-sprite/run.gif)
+🔭 Learning three.js, c#, and go ![gopher](https://raw.githubusercontent.com/egonelbre/gophers/master/animation/2bit-sprite/run.gif)
 
 🌱 Interested in 3D code
 
