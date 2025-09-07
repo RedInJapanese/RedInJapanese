@@ -1,5 +1,5 @@
 # ```fmt.Println("Hello, World!")``` 
-My name is Akash, and I'm a Computer Science:Game Design major and Computer Science minor at UCSC.
+My name is Akash, and I'm an M.Eng. student at Cornell Tech.
 ## About Me            
 
 🏫 Currently a senior
