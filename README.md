@@ -2,8 +2,6 @@
 My name is Akash, and I'm an M.Eng. student at Cornell Tech.
 ## About Me            
 
-🏫 Currently a senior
-
 🔭 Learning three.js, c#, and go ![gopher](https://raw.githubusercontent.com/egonelbre/gophers/master/animation/2bit-sprite/run.gif)
 
 🌱 Interested in 3D code
